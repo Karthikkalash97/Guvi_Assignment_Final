@@ -1,4 +1,4 @@
-# Guvi_Assignment_Final
+# Guvi_Assignment_1
 Login System using File Handling
 
 Features 
@@ -6,7 +6,7 @@ Features
 2. Password and UserID validation
 3. Password Recovery
 4. Admin Mode:
-  a. Delete Existing User
-  b. Create New User
-  c. Create New admin
+a. Delete Existing User
+b. Create New User
+c. Create New admin
   
